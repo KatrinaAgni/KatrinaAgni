@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KatrinaAgni
+- 👋 Hi, I’m Katrina Agni Hartanto
 - 👀 I’m interested in the development of technology
-- 🌱 I’m currently learning computer engineering
+- 🌱 I’m currently learning technology informatics engineering
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a student
 

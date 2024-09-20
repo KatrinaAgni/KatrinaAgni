@@ -1,3 +1,5 @@
+https://github.com/KatrinaAgni/KatrinaAgni/blob/main/MakiZenin.gif
+
 - 👋 Hi, I’m Katrina Agni Hartanto
 - 👀 I’m interested in the development of technology
 - 🌱 I’m currently learning technology informatics engineering

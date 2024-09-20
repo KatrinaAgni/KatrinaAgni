@@ -1,4 +1,4 @@
-https://github.com/KatrinaAgni/KatrinaAgni/blob/main/MakiZenin.gif
+![](https://github.com/KatrinaAgni/KatrinaAgni/blob/main/MakiZenin.gif)
 
 - 👋 Hi, I’m Katrina Agni Hartanto
 - 👀 I’m interested in the development of technology

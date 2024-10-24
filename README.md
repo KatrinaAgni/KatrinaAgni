@@ -1,8 +1,8 @@
 ![](https://github.com/KatrinaAgni/KatrinaAgni/blob/main/MakiZenin.gif)
 
 - 👋 Hi, I’m Katrina Agni Hartanto, you can call me katrin 
-- 👀 I’m interested in the development of technology
-- 🌱 I’m currently learning technology informatics engineering
+- 👀 I’m interested in technology development
+- 🌱 I’m currently study technology informatics engineering
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I really love dancing
 
